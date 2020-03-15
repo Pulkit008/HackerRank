@@ -9,3 +9,4 @@ HackerRank Python Skills
 ### 2. Basic Data Types
 
 1.  [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/2.%20Basic%20Data%20Types/1.%20List%20Comprehensions.py)
+2.  [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/2.%20Basic%20Data%20Types/2.%20Find%20the%20Runner-Up%20Score.py)
