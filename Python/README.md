@@ -44,7 +44,7 @@ HackerRank Python Skills
 3.  [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/03.%20Symmetric%20Difference.py)
 4.  [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/04.%20Set%20.add().py)
 5.  [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/05.%20Set%20.discard()%2C%20.remove()%20%26%20.pop().py)
-6.  [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution]()
+6.  [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/06.%20Set%20.union()%20Operation.py)
 7.  [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution]()
 8.  [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Solution]()
 9.  [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution]()
