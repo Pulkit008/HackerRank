@@ -22,20 +22,20 @@ HackerRank Python Skills
 
 ### 3. Strings
 
-1.  [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [(Solution)]()
-2.  [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [(Solution)]()
-3.  [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [(Solution)]()
-4.  [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [(Solution)]()
-5.  [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [(Solution)]()
-6.  [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [(Solution)]()
-7.  [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [(Solution)]()
-8.  [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [(Solution)]()
-9.  [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [(Solution)]()
-10.  [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [(Solution)]()
-11.  [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [(Solution)]()
-12.  [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [(Solution)]()
-13.  [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [(Solution)]()
-14.  [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [(Solution)]()
+1.  [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/01.%20sWAP%20cASE.py)
+2.  [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/02.%20String%20Split%20and%20Join.py)
+3.  [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/03.%20What's%20Your%20Name%3F.py)
+4.  [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/04.%20Mutations.py)
+5.  [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/05.%20Find%20a%20string.py)
+6.  [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/06.%20String%20Validators.py)
+7.  [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/07.%20Text%20Alignment.py)
+8.  [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/08.%20Text%20Wrap.py)
+9.  [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/09.%20Designer%20Door%20Mat.py)
+10.  [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/10.%20String%20Formatting.py)
+11.  [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/11.%20Alphabet%20Rangoli.py)
+12.  [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/12.%20Capitalize!.py)
+13.  [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/13.%20The%20Minion%20Game.py)
+14.  [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/14.%20Merge%20the%20Tools!.py)
 
 ### 4. Sets
 
