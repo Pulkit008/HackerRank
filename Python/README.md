@@ -40,7 +40,7 @@ HackerRank Python Skills
 ### 4. Sets
 
 1.  [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/01.%20Introduction%20to%20Sets.py)
-2.  [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution]()
+2.  [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/02.%20No%20Idea!.py)
 3.  [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution]()
 4.  [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution]()
 5.  [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution]()
