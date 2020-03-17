@@ -51,4 +51,4 @@ HackerRank Python Skills
 10.  [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/10.%20Set%20Mutations.py)
 11.  [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/11.%20The%20Captain's%20Room.py)
 12.  [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/12.%20Check%20Subset.py)
-13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution]()
+13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/13.%20Check%20Strict%20Superset.py)
