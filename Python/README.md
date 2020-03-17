@@ -36,3 +36,19 @@ HackerRank Python Skills
 12.  [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [(Solution)]()
 13.  [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [(Solution)]()
 14.  [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [(Solution)]()
+
+### 4. Sets
+
+1.  [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution]()
+2.  [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution]()
+3.  [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution]()
+4.  [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution]()
+5.  [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution]()
+6.  [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution]()
+7.  [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution]()
+8.  [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Solution]()
+9.  [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution]()
+10.  [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution]()
+11.  [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution]()
+12.  [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution]()
+13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution]()
