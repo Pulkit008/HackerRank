@@ -52,3 +52,13 @@ HackerRank Python Skills
 11.  [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/11.%20The%20Captain's%20Room.py)
 12.  [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/12.%20Check%20Subset.py)
 13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/13.%20Check%20Strict%20Superset.py)
+
+### 5. Math
+
+1.  [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution]()
+2.  [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution]()
+3.  [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution]()
+4.  []() | [Solution]()
+5.  []() | [Solution]()
+6.  []() | [Solution]()
+7.  []() | [Solution]()
