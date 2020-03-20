@@ -55,10 +55,10 @@ HackerRank Python Skills
 
 ### 5. Math
 
-1.  [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution]()
-2.  [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution]()
-3.  [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution]()
-4.  []() | [Solution]()
-5.  []() | [Solution]()
-6.  []() | [Solution]()
-7.  []() | [Solution]()
+1.  [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [(Solution)]()
+2.  [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [(Solution)]()
+3.  [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [(Solution)]()
+4.  [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [(Solution)]()
+5.  [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [(Solution)]()
+6.  [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [(Solution)]()
+7.  [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [(Solution)]()
