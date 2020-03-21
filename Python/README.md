@@ -1,7 +1,7 @@
 HackerRank Python Skills
 ------------------------
 
-### 1. Introduction
+### 01. Introduction
 
 1.  [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/01.%20Say%20%22Hello%2C%20World!%22%20With%20Python.py)
 2.  [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/02.%20Python%20If-Else.py)
@@ -11,7 +11,7 @@ HackerRank Python Skills
 6.  [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/06.%20Write%20a%20function.py)
 7.  [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/07.%20Print%20Function.py)
 
-### 2. Basic Data Types
+### 02. Basic Data Types
 
 1.  [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/01.%20List%20Comprehensions.py)
 2.  [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/02.%20Find%20the%20Runner-Up%20Score.py)
@@ -20,7 +20,7 @@ HackerRank Python Skills
 5.  [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/05.%20Lists.py)
 6.  [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/06.%20Tuples.py)
 
-### 3. Strings
+### 03. Strings
 
 1.  [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/01.%20sWAP%20cASE.py)
 2.  [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/02.%20String%20Split%20and%20Join.py)
@@ -37,7 +37,7 @@ HackerRank Python Skills
 13.  [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/13.%20The%20Minion%20Game.py)
 14.  [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/03.%20Strings/14.%20Merge%20the%20Tools!.py)
 
-### 4. Sets
+### 04. Sets
 
 1.  [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/01.%20Introduction%20to%20Sets.py)
 2.  [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/02.%20No%20Idea!.py)
@@ -53,7 +53,7 @@ HackerRank Python Skills
 12.  [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/12.%20Check%20Subset.py)
 13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/13.%20Check%20Strict%20Superset.py)
 
-### 5. Math
+### 05. Math
 
 1.  [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [(Solution)]()
 2.  [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [(Solution)]()
@@ -62,3 +62,13 @@ HackerRank Python Skills
 5.  [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [(Solution)]()
 6.  [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [(Solution)]()
 7.  [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [(Solution)]()
+
+### 06. Itertools
+
+01.  [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [(Solution)]()
+02.  [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [(Solution)]()
+03.  [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [(Solution)]()
+04.  [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [(Solution)]()
+05.  [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [(Solution)]()
+06.  [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [(Solution)]()
+07.  [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [(Solution)]()
