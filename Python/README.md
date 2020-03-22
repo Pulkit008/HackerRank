@@ -60,7 +60,7 @@ HackerRank Python Skills
 3.  [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/05.%20Math/03.%20Triangle%20Quest%202.py)
 4.  [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/05.%20Math/04.%20Mod%20Divmod.py)
 5.  [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/05.%20Math/05.%20Power%20-%20Mod%20Power.py)
-6.  [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [(Solution)]()
+6.  [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/05.%20Math/06.%20Integers%20Come%20In%20All%20Sizes.py)
 7.  [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [(Solution)]()
 
 ### 06. Itertools
