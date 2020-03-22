@@ -56,7 +56,7 @@ HackerRank Python Skills
 ### 05. Math
 
 1.  [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/05.%20Math/01.%20Polar%20Coordinates.py)
-2.  [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [(Solution)]()
+2.  [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/05.%20Math/02.%20Find%20Angle%20MBC.py)
 3.  [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [(Solution)]()
 4.  [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [(Solution)]()
 5.  [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [(Solution)]()
