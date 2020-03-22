@@ -39,19 +39,19 @@ HackerRank Python Skills
 
 ### 04. Sets
 
-1.  [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/01.%20Introduction%20to%20Sets.py)
-2.  [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/02.%20No%20Idea!.py)
-3.  [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/03.%20Symmetric%20Difference.py)
-4.  [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/04.%20Set%20.add().py)
-5.  [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/05.%20Set%20.discard()%2C%20.remove()%20%26%20.pop().py)
-6.  [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/06.%20Set%20.union()%20Operation.py)
-7.  [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/07.%20Set%20.intersection()%20Operation.py)
-8.  [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/08.%20Set%20.difference()%20Operation.py)
-9.  [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/09.%20Set%20.symmetric_difference()%20Operation.py)
-10.  [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/10.%20Set%20Mutations.py)
-11.  [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/11.%20The%20Captain's%20Room.py)
-12.  [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/12.%20Check%20Subset.py)
-13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/13.%20Check%20Strict%20Superset.py)
+1.  [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/01.%20Introduction%20to%20Sets.py)
+2.  [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/02.%20No%20Idea!.py)
+3.  [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/03.%20Symmetric%20Difference.py)
+4.  [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/04.%20Set%20.add().py)
+5.  [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/05.%20Set%20.discard()%2C%20.remove()%20%26%20.pop().py)
+6.  [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/06.%20Set%20.union()%20Operation.py)
+7.  [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/07.%20Set%20.intersection()%20Operation.py)
+8.  [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/08.%20Set%20.difference()%20Operation.py)
+9.  [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/09.%20Set%20.symmetric_difference()%20Operation.py)
+10.  [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/10.%20Set%20Mutations.py)
+11.  [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/11.%20The%20Captain's%20Room.py)
+12.  [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/12.%20Check%20Subset.py)
+13.  [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/04.%20Sets/13.%20Check%20Strict%20Superset.py)
 
 ### 05. Math
 
