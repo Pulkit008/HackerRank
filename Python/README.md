@@ -66,7 +66,7 @@ HackerRank Python Skills
 ### 06. Itertools
 
 01.  [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/01.%20itertools.product().py)
-02.  [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [(Solution)]()
+02.  [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/02.%20itertools.permutations().py)
 03.  [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [(Solution)]()
 04.  [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [(Solution)]()
 05.  [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [(Solution)]()
