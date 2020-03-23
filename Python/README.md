@@ -71,4 +71,4 @@ HackerRank Python Skills
 04.  [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/04.%20itertools.combinations_with_replacement().py)
 05.  [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/05.%20Compress%20the%20String!.py)
 06.  [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/06.%20Iterables%20and%20Iterators.py)
-07.  [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [(Solution)]()
+07.  [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/07.%20Maximize%20It!.py)
