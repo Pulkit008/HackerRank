@@ -13,12 +13,12 @@ HackerRank Python Skills
 
 ### 02. Basic Data Types
 
-1.  [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/01.%20List%20Comprehensions.py)
-2.  [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/02.%20Find%20the%20Runner-Up%20Score.py)
-3.  [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/03.%20Nested%20Lists.py)
-4.  [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/04.%20Finding%20the%20percentage.py)
-5.  [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/05.%20Lists.py)
-6.  [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/06.%20Tuples.py)
+01.  [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/01.%20List%20Comprehensions.py)
+02.  [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/02.%20Find%20the%20Runner-Up%20Score.py)
+03.  [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/03.%20Nested%20Lists.py)
+04.  [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/04.%20Finding%20the%20percentage.py)
+05.  [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/05.%20Lists.py)
+06.  [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/02.%20Basic%20Data%20Types/06.%20Tuples.py)
 
 ### 03. Strings
 
