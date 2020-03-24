@@ -3,13 +3,13 @@ HackerRank Python Skills
 
 ### 01. Introduction
 
-1.  [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/01.%20Say%20%22Hello%2C%20World!%22%20With%20Python.py)
-2.  [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/02.%20Python%20If-Else.py)
-3.  [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/03.%20Arithmetic%20Operators.py)
-4.  [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/04.%20Python:%20Division.py)
-5.  [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/05.%20Loops.py)
-6.  [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/06.%20Write%20a%20function.py)
-7.  [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/07.%20Print%20Function.py)
+01.  [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/01.%20Say%20%22Hello%2C%20World!%22%20With%20Python.py)
+02.  [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/02.%20Python%20If-Else.py)
+03.  [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/03.%20Arithmetic%20Operators.py)
+04.  [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/04.%20Python:%20Division.py)
+05.  [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/05.%20Loops.py)
+06.  [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/06.%20Write%20a%20function.py)
+07.  [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/01.%20Introduction/07.%20Print%20Function.py)
 
 ### 02. Basic Data Types
 
