@@ -72,3 +72,31 @@ HackerRank Python Skills
 05.  [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/05.%20Compress%20the%20String!.py)
 06.  [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/06.%20Iterables%20and%20Iterators.py)
 07.  [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/06.%20Itertools/07.%20Maximize%20It!.py)
+
+###  07. Collections
+
+1.  [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [(Solution)]()
+2.  [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [(Solution)]()
+3.  [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [(Solution)]()
+4.  [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [(Solution)]()
+5.  [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [(Solution)]()
+6.  [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [(Solution)]()
+7.  [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | [(Solution)]()
+8.  [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem) | [(Solution)]()
+
+###  08. Date and Time
+
+1.  [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [(Solution)]()
+2.  [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [(Solution)]()
+
+###  09. Errors and Exceptions
+
+1.  [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [(Solution)]()
+2.  [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [(Solution)]()
+
+###  10. Classes
+
+1.  [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [(Solution)]()
+2.  [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [(Solution)]()
+
+.  []() | [(Solution)]()
