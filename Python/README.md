@@ -99,4 +99,19 @@ HackerRank Python Skills
 1.  [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [(Solution)]()
 2.  [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [(Solution)]()
 
+###  11. Built-Ins
+
+1.  [Zipped!](https://www.hackerrank.com/challenges/zipped/problem) | [(Solution)]()
+2.  [Input()](https://www.hackerrank.com/challenges/input/problem) | [(Solution)]()
+3.  [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | [(Solution)]()
+4.  [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [(Solution)]()
+5.  [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem) | [(Solution)]()
+6.  [ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [(Solution)]()
+
+###  12. Python Functionals
+
+1.  [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [(Solution)]()
+2.  [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [(Solution)]()
+3.  [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | [(Solution)]()
+
 .  []() | [(Solution)]()
