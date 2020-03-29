@@ -77,7 +77,7 @@ HackerRank Python Skills
 
 1.  [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/01.%20collections.Counter().py)
 2.  [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/02.%20DefaultDict%20Tutorial.py)
-3.  [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [(Solution)]()
+3.  [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/03.%20Collections.namedtuple().py)
 4.  [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [(Solution)]()
 5.  [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [(Solution)]()
 6.  [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [(Solution)]()
