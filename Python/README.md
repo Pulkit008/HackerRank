@@ -81,7 +81,7 @@ HackerRank Python Skills
 4.  [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/04.%20Collections.OrderedDict().py)
 5.  [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/05.%20Word%20Order.py)
 6.  [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/06.%20Collections.deque().py)
-7.  [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | [(Solution)]()
+7.  [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/07.%20Collections/07.%20Company%20Logo.py)
 8.  [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem) | [(Solution)]()
 
 ###  08. Date and Time
