@@ -87,7 +87,7 @@ HackerRank Python Skills
 ###  08. Date and Time
 
 1.  [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/08.%20Date%20and%20Time/01.%20Calendar%20Module.py)
-2.  [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [(Solution)]()
+2.  [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/08.%20Date%20and%20Time/02.%20Time%20Delta.py)
 
 ###  09. Errors and Exceptions
 
