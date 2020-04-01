@@ -91,7 +91,7 @@ HackerRank Python Skills
 
 ###  09. Errors and Exceptions
 
-1.  [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [(Solution)]()
+1.  [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/09.%20Errors%20and%20Exceptions/01.%20Exceptions.py)
 2.  [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [(Solution)]()
 
 ###  10. Classes
