@@ -97,7 +97,7 @@ HackerRank Python Skills
 ###  10. Classes
 
 1.  [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/10.%20Classes/01.%20Classes:%20Dealing%20with%20Complex%20Numbers.py)
-2.  [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [(Solution)]()
+2.  [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/10.%20Classes/02.%20Class%202%20-%20Find%20the%20Torsional%20Angle.py)
 
 ###  11. Built-Ins
 
