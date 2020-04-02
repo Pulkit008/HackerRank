@@ -106,7 +106,7 @@ HackerRank Python Skills
 3.  [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/11.%20Built-Ins/03.%20Python%20Evaluation.py)
 4.  [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/11.%20Built-Ins/04.%20Athlete%20Sort.py)
 5.  [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem) | [(Solution)]()
-6.  [ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [(Solution)]()
+6.  [ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/11.%20Built-Ins/06.%20ginortS.py)
 
 ###  12. Python Functionals
 
