@@ -110,7 +110,7 @@ HackerRank Python Skills
 
 ###  12. Python Functionals
 
-1.  [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [(Solution)]()
+1.  [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [(Solution)](https://github.com/Pulkit008/HackerRank/blob/master/Python/12.%20Python%20Functionals/01.%20Map%20and%20Lambda%20Function.py)
 2.  [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [(Solution)]()
 3.  [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | [(Solution)]()
 
